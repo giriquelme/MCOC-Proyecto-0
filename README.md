@@ -8,3 +8,4 @@ Al elegir números infinitos como es la raiz cuadrada de dos, el número pi, el 
 
 ### Output de la consola
 
+![Captura](https://user-images.githubusercontent.com/53490100/62436454-ae67b200-b70d-11e9-86ea-0f4c0d35baa7.PNG)
